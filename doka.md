@@ -1,3 +1,18 @@
+# Тестовый документ markdown
+
+Markdown - это язык разметки.
+
+## Работа с заголовками
+
+Для того чтобы выделить текст в качестве заголовка необходимо установить перед текстом символ (#).
+
+Колличество символов (#) указывает уровень заголовка. 
+
+(#)  - заголовок первого уровня
+(##) - заголовок второго уровня, и так далее.
+
+
+
 # Контент Доки
 
 [![Статус EditorConfig](https://github.com/doka-guide/content/workflows/EditorConfig/badge.svg)](https://github.com/doka-guide/content/actions?query=workflow%3AEditorConfig)
